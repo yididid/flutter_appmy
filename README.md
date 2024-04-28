@@ -1,4 +1,8 @@
 # flutterapp
+项目展示
+![1714296470642](https://github.com/yididid/flutter_appmy/assets/56509940/483065c3-1247-4e42-b1b3-dd1f0271032f)
+![1714296513727](https://github.com/yididid/flutter_appmy/assets/56509940/af19a16d-24d7-4ee4-8b60-13c2652db044)
+
 
 A new Flutter project.
 
